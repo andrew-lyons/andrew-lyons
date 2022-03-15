@@ -6,7 +6,7 @@ I'm a developer working in Ohio, USA.
 * ✨ Human learning more machine learning
 * 🤌 Trying to figure out OpenCV
 * 🏢 Helping people speak again at **SpokenAAC**
-* 🌍 Publishing more open source projects
+* 🌍 Publishing more open source
 
 #### BIO
 * ⚙️ Each week I use: `.js`, `.jsx/.tsx`, `.vue`, `.py` or `.ipynb`
