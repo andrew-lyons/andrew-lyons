@@ -10,7 +10,7 @@ I'm a developer in West Virginia, USA.
 
 #### BIO
 * 🌱 Learning more everyday
-* ⚙️ Each week I use: `.js`, `.jsx/.tsx`, `.vue`, `.py` or `.ipynb`
+* ⚙️ Each week I use: `.js/.ts`, `.jsx/.tsx`, `.vue`, `.py` or `.ipynb`
 * ⚙️ Less often I use: `.java` or `.swift`
 * 📈 Invest in community, help my fellow West Virginians solve problems with code
 * 💬 Ping me about bettering the world or cool open source projects
