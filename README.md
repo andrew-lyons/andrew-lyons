@@ -4,7 +4,6 @@ I'm a developer in West Virginia, USA.
 
 #### NOW
 * ✨ Human learning more machine learning
-* 🤌 Figuring out OpenCV
 * 🌍 Publishing more open source
 * 🏢 Helping people speak again at **SpokenAAC** ([github](https://github.com/spokenaac) and [website](https://www.spokenaac.com))
 
