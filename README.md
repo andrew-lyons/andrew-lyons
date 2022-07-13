@@ -6,6 +6,7 @@ I'm a developer in West Virginia, USA.
 * ✨ Teaching a few local ML internships
 * 🌍 Publishing more open source
 * 🏢 Helping people speak again at **SpokenAAC** ([github](https://github.com/spokenaac) and [website](https://www.spokenaac.com))
+* 🏢 Bootcamp instructor at **2U** ([github](https://github.com/coding-boot-camp) and [website](https://2u.com/))
 
 #### BIO
 * ⚙️ Each week I use: `.js/.ts`, `.jsx/.tsx`, `.vue`, `.py` or `.ipynb`
