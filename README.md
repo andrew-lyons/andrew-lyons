@@ -3,7 +3,6 @@
 I'm a developer in West Virginia, USA.
 
 #### NOW
-* ✨ Teaching a few local ML internships
 * 🌍 Publishing more open source
 * 🏢 Helping people speak again at **SpokenAAC** ([github](https://github.com/spokenaac) and [website](https://www.spokenaac.com))
 * 🏢 Bootcamp instructor at **2U** ([github](https://github.com/coding-boot-camp) and [website](https://2u.com/))
