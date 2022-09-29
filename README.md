@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a developer in West Virginia, USA.
+I'm a developer in West Virginia, USA. ![](https://hit.yhype.me/github/profile?user_id=56739125)
 
 #### NOW
 * 🌍 Publishing more open source
