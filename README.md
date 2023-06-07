@@ -4,7 +4,7 @@ I'm a developer in West Virginia, USA. ![](https://hit.yhype.me/github/profile?u
 
 #### NOW
 * 🌍 Publishing mobile apps
-* 🏢 Helping people speak again at **SpokenAAC** ([github](https://github.com/spokenaac) and [website](https://www.spokenaac.com))
+* 🏢 Engineering at **Arva Intelligence** [website](https://arvaintelligence.com/)
 
 #### BIO
 * ⚙️ Every day I use: `.js/.ts`, `.jsx/.tsx`, `.vue`, `.py` or `.ipynb`
